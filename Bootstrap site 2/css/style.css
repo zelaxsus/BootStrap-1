@@ -1,0 +1,26 @@
+.avatar
+{
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    align-items: center;
+    margin-top: 10px;
+}
+.avatar-box
+{
+    text-align: center;
+}
+.mini-post
+{
+    height: auto;
+    width:  100%;
+}
+.post-icerik{
+  background-color: rgb(170, 167, 167);
+  height:250px;
+}
+.footerrow
+{
+    height: 200px;
+    padding-top: 20px;
+}
